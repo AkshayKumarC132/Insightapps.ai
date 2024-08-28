@@ -1,0 +1,6 @@
+[submodule "InsightApps"]
+	path = InsightApps
+	url = https://github.com/Rajashekarreddy24/InsightApps.git
+[submodule "InsightApps-Angular"]
+	path = InsightApps-Angular
+	url = https://github.com/Rajashekarreddy24/InsightApps-Angular.git
